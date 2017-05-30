@@ -1,3 +1,3 @@
 # excercice_repo
-Row two changes
+Line two chages
 Let's make a conflict
